@@ -2,6 +2,7 @@
 # Falcı Gacı
 
 A fortune teller app created with flutter and firebase. Also this app includes a web site created with firebase hosting. If you wanna download admin app (this app for manage fortunes like add fortune, delete fortune etc. ) check this -> Falcı Gacı Admin
+Check our website for falci gaci: https://falcigaci-58898.web.app/
 
 
 
