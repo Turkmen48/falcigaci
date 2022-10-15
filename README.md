@@ -5,6 +5,8 @@ A fortune teller app created with flutter and firebase. Also this app includes a
 
 Check our website for falci gaci: https://falcigaci-58898.web.app/
 
+[Türkçe Beni Oku Metni](https://github.com/Turkmen48/falcigaci/blob/main/README-TR.md)
+
 
 
 ## Screenshots
