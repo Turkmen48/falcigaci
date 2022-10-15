@@ -13,7 +13,7 @@ Check our website for falci gaci: https://falcigaci-58898.web.app/
 <img src="https://github.com/Turkmen48/falcigaci/blob/main/screenshots/3.png" width="500" height="700">
 <img src="https://github.com/Turkmen48/falcigaci/blob/main/screenshots/4.png" width="500" height="700">
 <img src="https://github.com/Turkmen48/falcigaci/blob/main/screenshots/5.png" width="500" height="700">
-<img src="https://github.com/Turkmen48/falcigaci/blob/main/screenshots/6.png" width="500" height="700">
+
 
 
 
