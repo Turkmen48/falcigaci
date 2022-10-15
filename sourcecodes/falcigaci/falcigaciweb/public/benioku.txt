@@ -1,0 +1,3 @@
+hazır görsel oluşturman için gerekli kaynkalarlar resorces klasöründe
+
+firebase deploy kodu ile siteyi upload et
