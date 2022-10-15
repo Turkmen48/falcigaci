@@ -1,7 +1,7 @@
 ![](https://img.shields.io/github/license/Turkmen48/Bilgi_Testi_Flutter) ![](https://img.shields.io/twitter/follow/aazdenkur?style=social) 
 # Falcı Gacı
 
-A fortune teller app created with flutter and firebase. If you wanna download admin app (this app for manage fortunes like add fortune, delete fortune etc. ) check this -> Falcı Gacı Admin
+A fortune teller app created with flutter and firebase. Also this app includes a web site created with firebase hosting. If you wanna download admin app (this app for manage fortunes like add fortune, delete fortune etc. ) check this -> Falcı Gacı Admin
 
 
 
