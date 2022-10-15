@@ -7,7 +7,12 @@ Falcı Gacı Web Sitesi: https://falcigaci-58898.web.app/
 
 [Readme English](https://github.com/Turkmen48/falcigaci/blob/main/README.md)
 
-
+## Ekran Görüntüleri
+<img src="https://github.com/Turkmen48/falcigaci/blob/main/screenshots/1.png" width="500" height="700">
+<img src="https://github.com/Turkmen48/falcigaci/blob/main/screenshots/2.png" width="500" height="700">
+<img src="https://github.com/Turkmen48/falcigaci/blob/main/screenshots/3.png" width="500" height="700">
+<img src="https://github.com/Turkmen48/falcigaci/blob/main/screenshots/4.png" width="500" height="700">
+<img src="https://github.com/Turkmen48/falcigaci/blob/main/screenshots/5.png" width="500" height="700">
 
 
 
